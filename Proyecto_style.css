@@ -30,7 +30,7 @@ body{
     margin: 0px;
 }
 .linea2{
-    height: 7vh;
+    height: 10vh;
     width: 98vw;
     display: flex;
     flex-direction: row;
@@ -100,6 +100,8 @@ li{
 }
 .footer{
     text-align: center;
+    text-decoration: none;
+    list-style: none;
     display: flex;
 }
 .listas-footer{
@@ -108,4 +110,7 @@ li{
 }
 .soporte{
     padding: 10px;
+}
+.a{
+    text-decoration: none;
 }
